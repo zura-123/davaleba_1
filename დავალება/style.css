@@ -1,0 +1,35 @@
+body{
+background-color: #1F314F;
+}
+.conteiner1{
+    Width:320px;
+Height: 497px;
+background-color: white;
+margin-left: 500px;
+padding: 16px;
+border-radius: 20px;
+}
+.conteiner2{
+    Width: 288px;
+Height:288px;
+background-color: #1F314F;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.image{
+    Width:160px;
+Height:160px;
+margin-left: 10px;
+padding-top: 20px;
+}
+.text-1{
+    Width:288px;
+Height:56px;
+color: #1F314F;
+font-size: large;
+padding: 5px;
+}
+.text-2{
+    padding: 15px;
+}
